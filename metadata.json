@@ -1,0 +1,7 @@
+{
+  "name": "TrueChain India",
+  "description": "A blockchain-powered supply chain transparency platform to combat counterfeit products in India.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
